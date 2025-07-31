@@ -1,0 +1,8 @@
+# Ignore large data files
+doctor_details_example_*.json
+doctor_details_final.csv
+doctor_details_part_*.csv
+doctor_details.csv
+doctor_details.json
+doctor_urls.json
+fnomceo-all-data-up-to-4-gen-2023.csv
